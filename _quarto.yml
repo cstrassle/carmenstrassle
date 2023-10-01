@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: trestles
     css: styles.css
     toc: true
 

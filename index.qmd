@@ -2,8 +2,8 @@
 title: "Home"
 image: headshot.jpeg
 about:
-  template: solana
-  image-width: 10em
+  template: trestles
+  image-width: 17em
   image-shape: rounded
   links:
     - icon: twitter
