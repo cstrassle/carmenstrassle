@@ -153,6 +153,8 @@ I am afraid that anything I say will look utterly naive as someone who is just f
   - [GitHub](https://missing.csail.mit.edu/2020/version-control/) to implement version control with your code.
     - I use [Tower](https://www.git-tower.com/mac) (included in [Student Developer Pack](https://education.github.com/pack)) to make interacting with GitHub less icky.
 
+  - ChatGPT for troubleshooting code, writing Tikz diagrams, etc etc . (And GitHub CoPilot, [which is free for students](https://education.github.com/pack), for in-line code suggestions). 
+  
   - If you use [Overleaf](https://www.overleaf.com) set up Dropbox integration.
 
     - I prefer [Texifier](https://www.texifier.com/) (better UI). Can edit documents through Dropbox so it also updates on Overleaf.
@@ -182,6 +184,7 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 ## Coding & Data Visualization
 
 This doesn't cover any basic stata/R tutorials; these are just some tools I've used in the past.
+
 
 - [Datawrapper](https://www.datawrapper.de/) is a really cool no-code tool. I generally like to use R to make visualizations but this automatically creates good-looking graphs that are especially useful in presenting summary data.
 
