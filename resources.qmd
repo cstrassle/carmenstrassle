@@ -151,8 +151,7 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 - Things I use everyday
 
   - [GitHub](https://missing.csail.mit.edu/2020/version-control/) to implement version control with your code.
-    - I use [Tower](https://www.git-tower.com/mac) (included in [Student Developer Pack](https://education.github.com/pack)) to make interacting with GitHub less icky.
-
+ 
   - ChatGPT for troubleshooting code, writing Tikz diagrams, etc etc . (And GitHub CoPilot, [which is free for students](https://education.github.com/pack), for in-line code suggestions). 
   
   - If you use [Overleaf](https://www.overleaf.com) set up Dropbox integration.
@@ -161,13 +160,9 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 
   - [Zotero](https://www.zotero.org/support/quick_start_guide) for citation management.
 
-  - There's a lot of value in listening to your essays before you submit them. I use [Kurzweil 300](https://www.kurzweil3000.com) (provided through my college's disability office) to do so.
-
   - [GoodNotes](https://goodnotes.com/) (enable some kind of syncing so you don't risk losing your notes)
 
   - I prefer the simplicity of [Obsidian](https://obsidian.md/) over [Notion](https://www.notion.so/)
-
-  - [Privacy Badger](https://privacybadger.org/)
 
   - [1Password](https://1password.com/)
 
@@ -195,5 +190,3 @@ This doesn't cover any basic stata/R tutorials; these are just some tools I've u
 - [Quant Econ](https://quantecon.org/lectures/) Python and Julia for Econ.
 
 - I used [Quarto](https://quarto.org/docs/websites/) and [Netlify](https://www.netlify.com/) to build this website.
-
-- [Fantastical](https://flexibits.com/fantastical) Now that I have five emails, its nice being able to have all of the calendars in one place + good UI for scheud
