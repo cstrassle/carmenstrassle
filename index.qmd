@@ -2,8 +2,8 @@
 title: "Home"
 image: headshot.jpeg
 about:
-  template: trestles
-  image-width: 17em
+  template: solana
+  image-width: 16em
   image-shape: rounded
   links:
     - icon: twitter
@@ -20,9 +20,9 @@ I'm a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs
 
 Previously, I was a predoctoral fellow for [Heidi Williams](https://sites.google.com/view/heidi-l-williams/home) where I researched metascience. 
 
-I completed my undergraduate education at [Wellesley College](https://www.wellesley.edu/) where I studied economics and math. In my free time I powerlift.
+I graduated from [Wellesley College](https://www.wellesley.edu/) where I studied economics and math. In my free time I powerlift.
 
-I'm broadly interested in topics of health economics, public economics, IO, and household finance.
+I'm broadly interested in topics of IO and public economics.
 
 [My C.V. is available here.](/zahra_thabet_cv.pdf) (and my CV template can be found [here](https://gabesekeres.com/cv.html))
 

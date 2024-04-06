@@ -3,7 +3,10 @@ project:
 
 website:
   title: "Zahra Thabet"
+  description: "Zahra Thabet's personal website"
   twitter-card: true
+  search: false
+
   navbar:
     background: light
     left:
@@ -11,12 +14,13 @@ website:
         text: Home
       - about.qmd
       - resources.qmd
+      - text: CV
+        file: zahra_thabet_cv.pdf
 
 format:
   html:
-    theme: trestles
-    css: styles.css
-    toc: true
+    theme:
+      - default
 
 
 

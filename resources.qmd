@@ -17,6 +17,8 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
 - Talk to previous predocs of the person who you want to work for and ask about work hours, expectations, stress, & general environment.
 
+  - What graduate programs did the previous predocs end up in? Only take a position where you would be happy with the median placement of all former predocs.
+
   - How many hours a week did they work on average?
 
   - How reasonable did they feel like the deadlines were?
@@ -32,8 +34,6 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   - What is health insurance like? Who covers the premium?
 
   - What opportunities do they have to take graduate-level classes during their predoc? Do they have to cover the cost? Is it for a grade or can they only audit?
-
-  - What graduate programs did the previous predocs end up in?
 
   - What are the norms around co-authorship with predocs? How will your work be recognized?
 
@@ -72,7 +72,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
   - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/pre-doctoral-program)
 
-  - [Columbia Business School](https://academics.gsb.columbia.edu/predoctoral-research/predoctoral-fellows-program)
+  - [Columbia Business School](https://business.columbia.edu/faculty-staff/research-resources/research-opportunities/predoctoral-fellows-program)
 
   - [Stanford GSB](https://www.gsb.stanford.edu/programs/research-fellows)
 
@@ -92,7 +92,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
   - [King Center, Stanford](https://kingcenter.stanford.edu/opportunities/prospective-predoctoral-research-fellows)
 
-  - [Council of Economic Advisers](https://www.whitehouse.gov/cea/work-for-us/research-assistant/)
+  - Council of Economic Advisers
 
   - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/)
 
@@ -134,7 +134,6 @@ A little info on my timeline (I applied in the fall of 2021). I started applying
 
 
 ## Undergrad Advice
-I am afraid that anything I say will look utterly naive as someone who is just finishing undergrad myself. The only useful resource I have here is the graduate school advice I looked at to get a sense of what classes I should take now.
 
 - [Susan Athey's Advice](https://athey.people.stanford.edu/professional-advice)
 
@@ -145,6 +144,8 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 - The most helpful places will be looking at the university that you are interested in and seeing if they have information about 'ideal' candidates in their application sections. Some are more explicit than others with respect to expected classes etc.
 
 - Alex Albright's [Thesis Advice](https://thelittledataset.com/undergrad-thesis-resources/)
+
+- Talk to professors at your university; tell them that you are interested in pursuing a PhD in economics after you graduate. Ask what they think you should do to be best positioned to achieve that goal. 
 
 ### My Setup
 
@@ -164,8 +165,6 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 
   - I prefer the simplicity of [Obsidian](https://obsidian.md/) over [Notion](https://www.notion.so/)
 
-  - [1Password](https://1password.com/)
-
   - [Libby](https://libbyapp.com) (app). Borrow free audiobooks from your library! Really nice UI.
 
 - Portable ergonomic equipment (good for hand/arm pain)
@@ -180,7 +179,6 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 
 This doesn't cover any basic stata/R tutorials; these are just some tools I've used in the past.
 
-
 - [Datawrapper](https://www.datawrapper.de/) is a really cool no-code tool. I generally like to use R to make visualizations but this automatically creates good-looking graphs that are especially useful in presenting summary data.
 
 - [Easily make Tikz Diagrams](https://www.mathcha.io/)
@@ -188,5 +186,7 @@ This doesn't cover any basic stata/R tutorials; these are just some tools I've u
 - [Stata2R](https://stata2r.github.io/) Learning R if you know Stata.
 
 - [Quant Econ](https://quantecon.org/lectures/) Python and Julia for Econ.
+
+- I learned to code initally with [Software Carpentry](https://software-carpentry.org/lessons/) and find it very straightforward but ymmv.
 
 - I used [Quarto](https://quarto.org/docs/websites/) and [Netlify](https://www.netlify.com/) to build this website.
