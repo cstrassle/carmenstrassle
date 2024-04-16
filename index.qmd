@@ -16,7 +16,7 @@ about:
       text: Github
       href: https://github.com/zthab
 ---
-I'm a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I work with Professor [Neale Mahoney](https://nmahoney.people.stanford.edu/) on the financial and mental health effects of medical debt relief. 
+Hi! I'm an incoming Economics Ph.D. student at Stanford University. I am currently a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I work with Professor [Neale Mahoney](https://nmahoney.people.stanford.edu/) on the financial and mental health effects of medical debt relief. 
 
 Previously, I was a predoctoral fellow for [Heidi Williams](https://sites.google.com/view/heidi-l-williams/home) where I researched metascience. 
 
