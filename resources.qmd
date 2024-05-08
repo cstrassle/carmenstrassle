@@ -1,6 +1,47 @@
 ---
 title: "Resources"
 ---
+## Applying to Economics PhDs
+
+I applied to PhD programs in Economics this past year (2023-2024). Here are a couple of pieces of advice that I have.  
+
+- Advice I found online on how to approach the personal statement is contradictory at best. Don't get too bogged down in this -- talk to your recommenders and see what they think is the best approach for you. 
+
+- Have as many people as possible read your application materials as soon as possible. 
+
+- Have a way of tracking deadlines both for yourself and for your recommenders. I used google sheets with the following rows. I shared a version of this spreadsheet with each recommender.
+
+| Have I invited recommender | Recommender submitted | Submission Deadline | Program |
+|-|-|-|-|
+|yes | no| November 29th | University X Economics PhD |
+
+- Apply to fee waivers for the GRE and for individual universities if you are eligible. A lot of places require that you do this in advance. When I was applying, I didn't feel like I had enough time to apply to most waivers because I didn't think about it until I was ready to submit. Here is a breakdown of my costs (I applied to 23 programs in the US and the UK across econ, finance, and public policy). The GRE costs are high because I retook it, and paid to move the date when I didn't feel prepared. The average application fee was around $85, and I received fee waivers for 3 programs. 
+
+- Here are my costs by category: 
+
+![](IezuI-cost-of-applying-to-economics-phd.png)
+
+- Apply to fellowships if you are eligible for them. They can help boost your application and provide you with better conditions as a PhD student. A couple that I can think of off the top of my head: 
+
+  - [NSF GRFP](https://www.nsfgrfp.org/applicants/applicant-eligibility/) (US citizens, nationals, or permanent residents)
+
+  - [PD Soros](https://www.pdsoros.org/apply/eligibilityu)
+
+  - [UniCredit](https://www.unicreditgroup.eu/en/microsites/unicreditfoundation/proposals.html)
+
+  - Search your country of origin + national bank + economics phd fellowship
+
+  - Search your undergraduate instiution + graduate fellowships (for undergraduates)
+
+    - if your undergraduate institution has a fellowship office it might be useful to meet with them as well.
+
+  - Consider applying to instituiton specific fellowships 
+
+    - [Rhodes](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/) / [Marshall](https://www.marshallscholarship.org/) / [Fullbright](https://us.fulbrightonline.org/), but those are only usable at certain UK institutions. These all have early deadlines. 
+
+    - [Knight-Hennessy](https://knight-hennessy.stanford.edu/) at Stanford
+
+- [Compilation of other people's advice](https://sites.google.com/view/econgradadvice/)
 
 ## Pre-Doc Advice and Resources
 Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below.
@@ -105,7 +146,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 ### My experience
 A little info on my timeline (I applied in the fall of 2021). I started applying to predocs in mid-September. I talked to current and former predocs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
 
-  - Stipend 58.5k
+  - Stipend (2023-2024) 58.5k, (2022-2023) 55k
 
     - The stipend is deposited quarterly -- the beginning of work was in early July but most people in my cohort were paid for the first time on July 30th.
 
@@ -153,7 +194,7 @@ A little info on my timeline (I applied in the fall of 2021). I started applying
 
   - [GitHub](https://missing.csail.mit.edu/2020/version-control/) to implement version control with your code.
  
-  - ChatGPT for troubleshooting code, writing Tikz diagrams, etc etc . (And GitHub CoPilot, [which is free for students](https://education.github.com/pack), for in-line code suggestions). 
+  - ChatGPT for troubleshooting code, writing Tikz diagrams, etc etc. (And GitHub CoPilot, [which is free for students](https://education.github.com/pack), for in-line code suggestions). 
   
   - If you use [Overleaf](https://www.overleaf.com) set up Dropbox integration.
 
