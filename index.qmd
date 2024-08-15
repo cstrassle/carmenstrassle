@@ -3,7 +3,7 @@ title: "Home"
 image: headshot.jpeg
 about:
   template: solana
-  image-width: 16em
+  image-width: 10em
   image-shape: rounded
   links:
     - icon: twitter
@@ -16,15 +16,10 @@ about:
       text: Github
       href: https://github.com/zthab
 ---
-I'm an incoming Economics Ph.D. student at Stanford University. 
+I'm an Economics Ph.D. student at Stanford University. 
 
-I am currently a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I work with Professor [Neale Mahoney](https://nmahoney.people.stanford.edu/) on the financial and mental health effects of medical debt relief. 
 
-Previously, I was a predoctoral fellow for [Heidi Williams](https://sites.google.com/view/heidi-l-williams/home) where I researched metascience. 
-
-I graduated from [Wellesley College](https://www.wellesley.edu/) where I studied economics and math. In my free time I powerlift.
-
-I'm broadly interested in topics of IO and public economics.
+I'm broadly interested in IO and public economics.
 
 [My C.V. is available here.](/zahra_thabet_cv.pdf) (and my CV template can be found [here](https://gabesekeres.com/cv.html))
 

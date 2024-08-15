@@ -1,49 +1,14 @@
 ---
 title: "Resources"
 ---
-## Applying to Economics PhDs
 
-I applied to PhD programs in Economics this past year (2023-2024). Here are a couple of pieces of advice that I have.  
-
-- Advice I found online on how to approach the personal statement is contradictory at best. Don't get too bogged down in this -- talk to your recommenders and see what they think is the best approach for you. 
-
-- Have as many people as possible read your application materials as soon as possible. 
-
-- Have a way of tracking deadlines both for yourself and for your recommenders. I used google sheets with the following rows. I shared a version of this spreadsheet with each recommender.
-
-| Have I invited recommender | Recommender submitted | Submission Deadline | Program |
-|-|-|-|-|
-|yes | no| November 29th | University X Economics PhD |
-
-- Apply to fee waivers for the GRE and for individual universities if you are eligible. A lot of places require that you do this in advance. When I was applying, I didn't feel like I had enough time to apply to most waivers because I didn't think about it until I was ready to submit. Here is a breakdown of my costs (I applied to 23 programs in the US and the UK across econ, finance, and public policy). The GRE costs are high because I retook it, and paid to move the date when I didn't feel prepared. The average application fee was around $85, and I received fee waivers for 3 programs. 
-
-- Here are my costs by category: 
-
-![](IezuI-cost-of-applying-to-economics-phd.png)
-
-- Apply to fellowships if you are eligible for them. They can help boost your application and provide you with better conditions as a PhD student. A couple that I can think of off the top of my head: 
-
-  - [NSF GRFP](https://www.nsfgrfp.org/applicants/applicant-eligibility/) (US citizens, nationals, or permanent residents)
-
-  - [PD Soros](https://www.pdsoros.org/apply/eligibilityu)
-
-  - [UniCredit](https://www.unicreditgroup.eu/en/microsites/unicreditfoundation/proposals.html)
-
-  - Search your country of origin + national bank + economics phd fellowship
-
-  - Search your undergraduate instiution + graduate fellowships (for undergraduates)
-
-    - if your undergraduate institution has a fellowship office it might be useful to meet with them as well.
-
-  - Consider applying to instituiton specific fellowships 
-
-    - [Rhodes](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/) / [Marshall](https://www.marshallscholarship.org/) / [Fullbright](https://us.fulbrightonline.org/), but those are only usable at certain UK institutions. These all have early deadlines. 
-
-    - [Knight-Hennessy](https://knight-hennessy.stanford.edu/) at Stanford
-
-- [Compilation of other people's advice](https://sites.google.com/view/econgradadvice/)
 
 ## Pre-Doc Advice and Resources
+::: {.callout-note }
+I'm happy that this is still useful 3+ years after I wrote it (while procrastinating writing my undergrad thesis). I periodically check to make sure that the links are not broken, but if you find I have missed one, feel free to email me and let me know. 
+Also, if there are websites I am missing that you found helpful when applying to predocs, let me know and I will add them! 
+:::
+
 Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below.
 
 - [EconRA Guide](https://raguide.github.io/): Covers all steps of the predoc process. Highly recommend reading through.
@@ -56,11 +21,13 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
 - [Predoc survey](https://z-y-huang.github.io/predoc_survey/slides.pdf): Useful statistics on the industry
 
-- Talk to previous predocs of the person who you want to work for and ask about work hours, expectations, stress, & general environment.
+- I often get questions about learning how to code. There are many, many lessons online today, but I found [software carpentry](https://software-carpentry.org/lessons/) to be super helpful when I was learning almost ten years ago. Luckily it has stood the test of time and gotten even better for giving you a foundation in coding and reproducible analyses. [QuantEcon](https://quantecon.org/lectures/) has economics-specific lectures freely available as well and comes highly recommended. This [Stata guide](https://julianreif.com/guide/) also looks great. 
 
-  - What graduate programs did the previous predocs end up in? Only take a position where you would be happy with the median placement of all former predocs.
+- If you have an offer, **talk to previous predocs of that PI** and ask about work hours, expectations, stress, & general environment. *This is two years of your life!!* Make sure that you are as informed as possible before making a decision. If someone wants to hire you, they should give you adequate time to decide and the contact info of former predocs on request and it would be a red flag if they did not. 
 
-  - How many hours a week did they work on average?
+  - What graduate programs did the previous predocs end up in? **Only take a position where you would be happy with the median placement of all former predocs.**
+
+  - How many hours a week did they work on average? 
 
   - How reasonable did they feel like the deadlines were?
 
@@ -78,7 +45,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
   - What are the norms around co-authorship with predocs? How will your work be recognized?
 
-    - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of predocs remaining in the acknowledgements. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
+    - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of predocs remaining in the acknowledgments. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
 
   - Ask if any of their friends have had a particularly good or bad experiences with certain professors.
 
@@ -146,24 +113,25 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 ### My experience
 A little info on my timeline (I applied in the fall of 2021). I started applying to predocs in mid-September. I talked to current and former predocs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
 
-  - Stipend (2023-2024) 58.5k, (2022-2023) 55k
+  - SIEPR stipend (which is the same for all predocs)
+    - 2024-2025: 61k, 2023-2024: 58.5k, 2022-2023: 55k
 
     - The stipend is deposited quarterly -- the beginning of work was in early July but most people in my cohort were paid for the first time on July 30th.
 
     - I spent 1.05k on rent last year and now am spending 2.1k this year.
-
-  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering the premium. I find that I dont pay more than $20 for routine services and $100 for ER services. There is a hospital on campus which is nice.
+  
+  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering the premium. I find that I don't pay more than $20 for routine services and $100 for ER services. There is a hospital on-campus which is nice.
 
   - One grad course per quarter at Stanford covered by SIEPR (excluding summer).
 
   - Work laptop
 
-  - Access to on campus housing
+  - Access to on-campus housing
 
-    - In practice, this isn't quite correct; no predocs in my cohort got fall housing on-campus through Stanford's lottery.
+    - In practice, this isn't quite correct; no predocs in my cohort got fall housing on-campus through Stanford's lottery. On-campus housing is quickly approaching / out-pacing the cost of off-campus housing as well. 
     I would say for myself, one of the more stressful parts of the job is getting housing/ moving multiple times within a year and not really knowing that this would happen beforehand.
 
-  - Access to on campus amenities like libraries, gym etc.
+  - Access to on-campus amenities like libraries, gym etc.
 
   - Mentoring
 
@@ -173,6 +141,14 @@ A little info on my timeline (I applied in the fall of 2021). I started applying
 
   - J-1 visa sponsorship / OPT eligible (I am not an international predoc, so I know less about how this works in practice)
 
+::: {.callout-note}
+## My experience
+As a predoc, my hours varied based off of deadlines, but, in general, I worked 35-40 hours a week. My hours are pretty flexible, if I have a mid-afternoon slump, I can always take a break, go to the gym, and come back to finish work later. In the last year of my predoc, I met with my PI at least once, often more times per week and corresponded over email with him almost daily. My project management and econometric skills have vastly improved.
+
+I found balancing classes with work to be incredibly difficult --- much more difficult than I thought it would be --- I didn't have time outside of work and classes to do anything or work on my own ideas, and often felt like I didn't have enough time to fully appreciate what I was being taught in the courses. Going to class was also disruptive to my workflow. I didn't walk away with nothing; having the opportunity to take convex optimization with the professor who invented most of the field was particularly helpful in appraoching my PhD. Courses can also be useful for predocs who feel they lack sufficient math/core econ, but that was not my situation. In the end, when I didn't take courses in my second year, I felt much better applying to PhD applications, maintaining personal relationships, hobbies, etc. 
+
+I ended up staying at Stanford for my PhD and I'm very happy with the level of support and mentorship that I have going into the PhD.
+:::
 
 ## Undergrad Advice
 
@@ -188,6 +164,47 @@ A little info on my timeline (I applied in the fall of 2021). I started applying
 
 - Talk to professors at your university; tell them that you are interested in pursuing a PhD in economics after you graduate. Ask what they think you should do to be best positioned to achieve that goal. 
 
+## Applying to Economics PhDs
+
+I applied to PhD programs in Economics this past year (2023-2024). Here are a couple of pieces of advice that I have.  
+
+- Advice I found online on how to approach the personal statement is contradictory at best. Don't get too bogged down in this -- talk to your recommenders and see what they think is the best approach for you. 
+
+- Have as many people as possible read your application materials as soon as possible. 
+
+- Have a way of tracking deadlines both for yourself and for your recommenders. I used google sheets with the following rows. I shared a version of this spreadsheet with each recommender.
+
+| Have I invited recommender | Recommender submitted | Submission Deadline | Program |
+|-|-|-|-|
+|yes | no| November 29th | University X Economics PhD |
+
+- Apply to fee waivers for the GRE and for individual universities if you are eligible. A lot of places require that you do this in advance. When I was applying, I didn't feel like I had enough time to apply to most waivers because I didn't think about it until I was ready to submit. Here is a breakdown of my costs (I applied to 23 programs in the US and the UK across econ, finance, and public policy). The GRE costs are high because I retook it, and paid to move the date when I didn't feel prepared. The average application fee was around $85, and I received fee waivers for 3 programs. 
+
+- Here are my costs by category: 
+
+![](IezuI-cost-of-applying-to-economics-phd.png){width=80%}
+
+- Apply to fellowships if you are eligible for them. They can help boost your application and provide you with better conditions as a PhD student. A couple that I can think of off the top of my head: 
+
+  - [NSF GRFP](https://www.nsfgrfp.org/applicants/applicant-eligibility/) (US citizens, nationals, or permanent residents)
+
+  - [PD Soros](https://www.pdsoros.org/apply/eligibilityu)
+
+  - [UniCredit](https://www.unicreditgroup.eu/en/microsites/unicreditfoundation/proposals.html)
+
+  - Search your country of origin + national bank + economics phd fellowship
+
+  - Search your undergraduate institution + graduate fellowships (for undergraduates)
+
+    - if your undergraduate institution has a fellowship office it might be useful to meet with them as well.
+
+  - Consider applying to institution specific fellowships 
+
+    - [Rhodes](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/) / [Marshall](https://www.marshallscholarship.org/) / [Fullbright](https://us.fulbrightonline.org/), but those are only usable at certain UK institutions. These all have early deadlines. 
+
+    - [Knight-Hennessy](https://knight-hennessy.stanford.edu/) at Stanford
+
+- [Compilation of other people's advice](https://sites.google.com/view/econgradadvice/)
 ### My Setup
 
 - Things I use everyday
