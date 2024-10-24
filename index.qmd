@@ -3,7 +3,7 @@ title: "Home"
 image: headshot.jpg
 about:
   template: solana
-  image-width: 10em
+  image-width: 20em
   image-shape: rounded
   links:
     - icon: envelope

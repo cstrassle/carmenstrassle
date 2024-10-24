@@ -1,11 +1,102 @@
 ---
 title: "Publications"
-title-block-banner: telescope.jpeg
+title-block-banner: blue
 title-block-banner-color: white
 ---
 
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
+[**Fast Decision Tree Learning Solves Hard Coding-Theoretic Problems**](https://arxiv.org/abs/2409.13096)  
+*Caleb Koch, Carmen Strassle, Li-Yang Tan*
+:::
+::: {.column width="10%" .text-right}
+FOCS 24
+:::
+:::
+:::
+
 
 ::: {.border}
-[**Certification with an NP Oracle**](https://arxiv.org/abs/2211.02257)  
-*Guy Blanc, Caleb Koch, Jane Lange, Carmen Strassle, Li-Yang Tan* 
+:::{.columns}
+::: {.column width="90%"}
+[**A Strong Direct Sum Theorem for Distributional Query Complexity**](https://arxiv.org/abs/2405.16340v1)  
+ *Guy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan*  
+ **Invited to CCC 2024 special issue**
 :::
+::: {.column width="10%" .text-right}
+CCC 24
+:::
+:::
+:::
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
+[**Superconstant Inapproximability of Decision Tree Learning**](https://arxiv.org/abs/2407.01402)  
+ *Caleb Koch, Carmen Strassle, Li-Yang Tan*
+:::
+::: {.column width="10%" .text-right}
+COLT 24
+:::
+:::
+:::
+
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
+[**A Strong Composition Theorem for Junta Complexity and the Boosting of Property Testers**](https://arxiv.org/abs/2307.04039)  
+ *Guy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan*
+:::
+::: {.column width="10%" .text-right}
+FOCS 23
+:::
+:::
+:::
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
+[**Properly Learning Decision Trees with Queries Is NP-Hard**](https://arxiv.org/abs/2307.04093)  
+ *Caleb Koch, Carmen Strassle, Li-Yang Tan*
+:::
+::: {.column width="10%" .text-right}
+FOCS 23
+:::
+:::
+:::
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
+[**Superpolynomial Lower Bounds for Decision Tree Learning and Testing**](https://arxiv.org/abs/2210.06375)  
+ *Caleb Koch, Carmen Strassle, Li-Yang Tan*
+:::
+::: {.column width="10%" .text-right}
+SODA 23
+:::
+:::
+:::
+
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
+[**Certification with an NP Oracle**](https://arxiv.org/abs/2211.02257)  
+ *Guy Blanc, Caleb Koch, Jane Lange, Carmen Strassle, Li-Yang Tan*
+:::
+::: {.column width="10%" .text-right}
+ITCS 23
+:::
+:::
+:::
+
+
+
+*author order is alphabetical*
