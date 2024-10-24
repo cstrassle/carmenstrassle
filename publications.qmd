@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-title-block-banner: blue
+title-block-banner: maroon
 title-block-banner-color: white
 ---
 
