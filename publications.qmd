@@ -4,7 +4,7 @@ title-block-banner: telescope.jpeg
 title-block-banner-color: white
 ---
 
-x
+
 ::: {.border}
 [**Certification with an NP Oracle**](https://arxiv.org/abs/2211.02257)  
 *Guy Blanc, Caleb Koch, Jane Lange, Carmen Strassle, Li-Yang Tan* 
