@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "Zahra Thabet"
-  description: "Zahra Thabet's personal website"
-  twitter-card: true
+  title: "Carmen Strassle"
+  description: "Carmen Strassle's personal website"
+  twitter-card: false
   search: false
 
   navbar:
@@ -12,10 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - resources.qmd
-      - text: CV
-        file: zahra_thabet_cv.pdf
+      - publications.qmd
+ 
 
 format:
   html:
