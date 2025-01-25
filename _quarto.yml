@@ -13,7 +13,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - publications.qmd
+      - href: publications.qmd
+        text: Publications
       - href: talks.qmd
         text: Talks
  
