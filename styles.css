@@ -1,4 +1,8 @@
 /* css styles */
+ul {
+  list-style-type: circle;
+}
+
 .flex-line {
     display: flex;
     justify-content: space-between;

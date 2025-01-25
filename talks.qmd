@@ -1,0 +1,62 @@
+---
+title: "Invited Talks"
+title-block-banner: maroon
+title-block-banner-color: white
+---
+
+::: {.border}
+:::{.columns}
+::: {.column width="80%"}
+**Fast Decision Tree Learning Solves Hard Coding-Theoretic Problems**  
+[video](https://www.youtube.com/watch?v=18OpV7HGRt0)  
+:::
+::: {.column width="20%" .text-right}
+- FOCS 24  
+- Stanford Theory Lunch 
+:::
+:::
+:::
+
+
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="80%"}
+**Properly Learning Decision Trees with Queries Is NP-Hard**  
+[video](https://www.youtube.com/watch?v=m-BjN6DqOHw) 
+:::
+::: {.column width="20%" .text-right}
+- FOCS 23
+:::
+:::
+:::
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="80%"}
+**Superpolynomial Lower Bounds for Decision Tree Learning and Testing**
+:::
+::: {.column width="20%" .text-right}
+- SODA 23
+:::
+:::
+:::
+
+
+
+::: {.border}
+:::{.columns}
+::: {.column width="80%"}
+**Certification with an NP Oracle**  
+[video](https://www.youtube.com/watch?v=7BFnKbE3Ct4&t=581s)
+:::
+::: {.column width="20%" .text-right}
+- ITCS 23
+:::
+:::
+:::
+
+
+
