@@ -10,4 +10,4 @@ about:
       text: Email
       href: mailto:strassle@stanford.edu
 ---
-I'm a Computer Science Ph.D. student at Stanford University where I am extremely fortunate to be advised by [Li-Yang Tan](https://theory.stanford.edu/~liyang/). My research is supported by the NSF Graduate Research Fellowship Program. 
+I'm a Computer Science Ph.D. student at Stanford University where I am extremely fortunate to be advised by [Li-Yang Tan](https://theory.stanford.edu/~liyang/). My research is supported by the NSF Graduate Research Fellowship Program and the Stanford Computer Science Distinguished Fellowship. 

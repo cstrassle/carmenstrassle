@@ -4,7 +4,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Fast Decision Tree Learning Solves Hard Coding-Theoretic Problems\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nFOCS 24\n\n\n\n\n\n\nA Strong Direct Sum Theorem for Distributional Query Complexity\nGuy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan\nInvited to CCC 2024 special issue\n\nCCC 24\n\n\n\n\n\n\nSuperconstant Inapproximability of Decision Tree Learning\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nCOLT 24\n\n\n\n\n\n\nA Strong Composition Theorem for Junta Complexity and the Boosting of Property Testers\nGuy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan\n\nFOCS 23\n\n\n\n\n\n\nProperly Learning Decision Trees with Queries Is NP-Hard\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nFOCS 23\n\n\n\n\n\n\nSuperpolynomial Lower Bounds for Decision Tree Learning and Testing\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nSODA 23\n\n\n\n\n\n\nCertification with an NP Oracle\nGuy Blanc, Caleb Koch, Jane Lange, Carmen Strassle, Li-Yang Tan\n\nITCS 23\n\n\n\nauthor order is alphabetical test"
+    "text": "Computational-Statistical Tradeoffs from NP-hardness\nGuy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan\n\nFOCS 25\n\n\n\n\n\n\nA Distributional-Lifting Theorem for PAC Learning\nGuy Blanc, Jane Lange, Carmen Strassle, Li-Yang Tan\n\nCOLT 25\n\n\n\n\n\n\nFast Decision Tree Learning Solves Hard Coding-Theoretic Problems\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nFOCS 24\n\n\n\n\n\n\nA Strong Direct Sum Theorem for Distributional Query Complexity\nGuy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan\nInvited to CCC 2024 special issue\n\nCCC 24\n\n\n\n\n\n\nSuperconstant Inapproximability of Decision Tree Learning\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nCOLT 24\n\n\n\n\n\n\nA Strong Composition Theorem for Junta Complexity and the Boosting of Property Testers\nGuy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan\n\nFOCS 23\n\n\n\n\n\n\nProperly Learning Decision Trees with Queries Is NP-Hard\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nFOCS 23\n\n\n\n\n\n\nSuperpolynomial Lower Bounds for Decision Tree Learning and Testing\nCaleb Koch, Carmen Strassle, Li-Yang Tan\n\nSODA 23\n\n\n\n\n\n\nCertification with an NP Oracle\nGuy Blanc, Caleb Koch, Jane Lange, Carmen Strassle, Li-Yang Tan\n\nITCS 23\n\n\n\nauthor order is alphabetical test"
   },
   {
     "objectID": "talks.html",
@@ -18,6 +18,6 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I’m a Computer Science Ph.D. student at Stanford University where I am extremely fortunate to be advised by Li-Yang Tan. My research is supported by the NSF Graduate Research Fellowship Program."
+    "text": "I’m a Computer Science Ph.D. student at Stanford University where I am extremely fortunate to be advised by Li-Yang Tan. My research is supported by the NSF Graduate Research Fellowship Program and the Stanford Computer Science Distinguished Fellowship."
   }
 ]

@@ -7,6 +7,30 @@ title-block-banner-color: white
 ::: {.border}
 :::{.columns}
 ::: {.column width="90%"}
+[**Computational-Statistical Tradeoffs from NP-hardness**](https://arxiv.org/abs/2507.13222)  
+*Guy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan*  
+:::
+::: {.column width="10%" .text-right}
+FOCS 25
+:::
+:::
+:::
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
+[**A Distributional-Lifting Theorem for PAC Learning**](https://arxiv.org/abs/2506.16651)  
+*Guy Blanc, Jane Lange, Carmen Strassle, Li-Yang Tan*  
+:::
+::: {.column width="10%" .text-right}
+COLT 25
+:::
+:::
+:::
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
 [**Fast Decision Tree Learning Solves Hard Coding-Theoretic Problems**](https://arxiv.org/abs/2409.13096)  
 *Caleb Koch, Carmen Strassle, Li-Yang Tan*
 :::
