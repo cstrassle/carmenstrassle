@@ -7,6 +7,17 @@ title-block-banner-color: white
 ::: {.border}
 :::{.columns}
 ::: {.column width="80%"}
+**Computational-Statistical Tradeoffs from NP-hardness**
+:::
+::: {.column width="20%" .text-right}
+- Stanford Theory Lunch
+:::
+:::
+:::
+
+::: {.border}
+:::{.columns}
+::: {.column width="80%"}
 **Fast Decision Tree Learning Solves Hard Coding-Theoretic Problems**  
 [video](https://www.youtube.com/watch?v=18OpV7HGRt0)  
 :::

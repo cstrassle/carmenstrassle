@@ -7,6 +7,18 @@ title-block-banner-color: white
 ::: {.border}
 :::{.columns}
 ::: {.column width="90%"}
+[**Samplability makes learning easier**](https://arxiv.org/abs/2512.01276)  
+*Guy Blanc, Caleb Koch, Jane Lange, Carmen Strassle, Li-Yang Tan*  
+:::
+::: {.column width="10%" .text-right}
+ITCS 26
+:::
+:::
+:::
+
+::: {.border}
+:::{.columns}
+::: {.column width="90%"}
 [**Computational-Statistical Tradeoffs from NP-hardness**](https://arxiv.org/abs/2507.13222)  
 *Guy Blanc, Caleb Koch, Carmen Strassle, Li-Yang Tan*  
 :::
